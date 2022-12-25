@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.example</groupId>
-  <artifactId>lab_7_Bodnaruk</artifactId>
+  <artifactId>lab_8_Bodnaruk</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Archetype - lab_7_Bodnaruk</name>
+  <name>Archetype - lab_8_Bodnaruk</name>
   <url>http://maven.apache.org</url>
   <properties>
     <maven.compiler.source>11</maven.compiler.source>
@@ -34,3 +34,4 @@
 
   </dependencies>
 </project>
+
