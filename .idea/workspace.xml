@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82093441-b686-4dd7-a02b-fcd23f90c8b9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JPMobVqtPU7B7vhUe1SqjEnoyy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Олександр"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.TestNGClass.buyNewBag">
+    <configuration name="TestNGClass.buyNewBag" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lab_7_Bodnaruk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestNGClass" />
+      <option name="METHOD_NAME" value="buyNewBag" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGClass.buyNewShoes" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lab_7_Bodnaruk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestNGClass" />
+      <option name="METHOD_NAME" value="buyNewShoes" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGClass.checkManufacturesFilter" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lab_7_Bodnaruk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestNGClass" />
+      <option name="METHOD_NAME" value="checkManufacturesFilter" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGClass.hasLogo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lab_7_Bodnaruk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestNGClass" />
+      <option name="METHOD_NAME" value="hasLogo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestNGClass.buyNewBag" />
+        <item itemvalue="TestNG.TestNGClass.hasLogo" />
+        <item itemvalue="TestNG.TestNGClass.checkManufacturesFilter" />
+        <item itemvalue="TestNG.TestNGClass.buyNewShoes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82093441-b686-4dd7-a02b-fcd23f90c8b9" name="Changes" comment="" />
+      <created>1671975442618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671975442618</updated>
+      <workItem from="1671975443976" duration="7055000" />
+      <workItem from="1671982777177" duration="2747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
